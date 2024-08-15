@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/drawable_scan_model.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" /> <!-- Radius sudut untuk membuatnya lebih berbentuk persegi -->
+            <solid android:color="#40FFFFFF" /> <!-- Warna latar belakang dengan transparansi -->
+            <size
+                android:width="100dp"
+                android:height="100dp" /> <!-- Ukuran persegi panjang -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" /> <!-- Radius sudut untuk membuatnya lebih berbentuk persegi -->
+            <solid android:color="@android:color/transparent" /> <!-- Warna latar belakang transparan -->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF"
+                android:dashWidth="8dp" /> <!-- Garis tepi putih dengan efek putus-putus -->
+        </shape>
+    </item>
+</layer-list>
+
+

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tanahore</string>
+    <string name="imgDesc">image</string>
+    <string name="welcometext">Welcome To Tanahore</string>
+    <string name="checkboxtext">Don\'t Show This Page Again</string>
+    <string name="btnwelcome">Continue</string>
+    <string name="nama_tanah">Nama Tanah</string>
+    <string name="search_here">Search Here</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="scanresult">Result</string>
+    <string name="jenis_tanah">Jenis Tanah:</string>
+    <string name="deskripsi">deskripsi:</string>
+    <string name="tanaman"> Rekomendasi Tanaman:</string>
+    <string name="ph">Cek pH</string>
+    <string name="phtanah">PH Tanah:</string>
+    <string name="rekomendasi">Tanaman Paling Cocok:</string>
+    <string name="suhu">Suhu:</string>
+    <string name="kelembapan">Kelembapan:</string>
+    <string name="intensitascahaya">Intensitas Cahaya:</string>
+    <string name="password">Input Your Password</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Input Your Email</string>
+    <string name="for_register">Don\'t Have Account?</string>
+    <string name="clickhere">Click Here</string>
+    <string name="signin">Login</string>
+    <string name="signup">Register</string>
+    <string name="register">REGISTER</string>
+    <string name="inpusername">Input Your Username</string>
+    <string name="for_login">Already Have Account?</string>
+    <string name="logout">LOGOUT</string>
+    <string name="logout2">Are You Sure Want To Logout?</string>
+    <string name="detail">Detail</string>
+    <string name="uhuy">***Anjim***</string>
+    <string name="text_welcome">Get ready to embark an a journey filled with exciting soils tailored just for you</string>
+    <string name="article">Article</string>
+</resources>
